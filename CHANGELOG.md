@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.48.0](https://github.com/googleapis/google-cloud-java/compare/v1.47.0...v1.48.0) (2024-11-15)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.google.cloud:google-cloud-pubsub-bom to v1.134.1 ([#11279](https://github.com/googleapis/google-cloud-java/issues/11279)) ([3f05ca4](https://github.com/googleapis/google-cloud-java/commit/3f05ca43ca702d2a26220976ca3533c781aeea78))
+
 ## [1.47.0](https://github.com/googleapis/google-cloud-java/compare/v1.46.0...v1.47.0) (2024-10-28)
 
 
